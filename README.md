@@ -7,9 +7,12 @@ INSTALASI
 4. Pada browser ketik: http://localhost:8080/tugasrsbk1
 
 URL S3 BUCKET/HOMEPAGE
-ttps://utsrsbk.s3.amazonaws.com/tugasutsrsbk.war
+https://utsrsbk.s3.amazonaws.com/tugasutsrsbk.war
+
+
+
 URL EC2 INSTANCE/APPLICATION
-http://35.171.20.115
+http://ec2-54-165-137-50.compute-1.amazonaws.com:8080/tugasutsrsbk/
 
 Kelompok 11 :
 1. Petrick Jubel E  - 21120117120028
